@@ -1,2 +1,2 @@
 # alv_eou
-Personal ease of use SLIS and LVC alv class 
+Practical simple SLIS and LVC alv class 
